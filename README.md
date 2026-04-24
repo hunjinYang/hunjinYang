@@ -2,12 +2,12 @@
 
 # Hi, I'm Yang Hun Jin 👋
 
-- 🔭 Currently working at **Northwest University**
-- 🌱 Currently learning **Point Cloud**
+- 🔭 Studying at **Northwest University**
+- 🌱 Currently learning **Java** & **Agent Development**
 - 📍 Based in **Xi'an, China**
-- 📚 I love **Reading**
-- ♟️ Fun fact: **Chess enthusiast**
-- 📫 Reach me at: **2469418771@qq.com**
+- 🏸 My interest lies in studying **the history of Chinese dynasties**
+- 💬 Ask me about my projects
+- 📫 Reach me at: **qianpuyu@163.com**
 
 ## Languages & Tools
 
